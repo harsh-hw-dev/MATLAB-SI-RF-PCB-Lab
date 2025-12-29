@@ -38,31 +38,7 @@ All simulations are designed to reflect **practical PCB design scenarios**.
 
 ---
 
-## 📂 Repository Structure
-
-HighSpeed-PCB-SignalIntegrity-MATLAB/
-│
-├── Transmission_Lines/
-│ ├── basic_tline_model.m
-│ ├── reflection_analysis.m
-│
-├── Impedance_Matching/
-│ ├── pi_matching.m
-│ ├── l_matching.m
-│
-├── S_Parameters/
-│ ├── s11_analysis.m
-│ ├── vswr_calculation.m
-│
-├── Termination_Techniques/
-│ ├── series_termination.m
-│ ├── parallel_termination.m
-│
-├── Utils/
-│ ├── helper_functions.m
-│
-└── README.md
-
+ 
 yaml
 Copy code
 
